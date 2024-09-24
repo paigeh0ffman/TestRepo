@@ -1,3 +1,3 @@
 def main();
-    print("CHOMP CHOMP!")
+    print("CHOMP CHOMP CHOMP!")
 main()
